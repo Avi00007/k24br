@@ -6,8 +6,6 @@
   </head>
 </html>
 <body>
-  <p>
-    this my demo page
-  </p>
+  <h1>this is my first git hub
 </body>
 </html>
